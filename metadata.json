@@ -1,0 +1,6 @@
+{
+  "name": "IPTV Proxy Filter",
+  "description": "A custom IPTV proxy that filters streams to only serve the last 100 added movies, compatible with any Xtream Codes or M3U client.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
